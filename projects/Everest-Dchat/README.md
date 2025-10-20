@@ -1,6 +1,6 @@
 # Dchat - Web3 Business Communication Platform
 
-> **🌐 Live Demo**: [https://dechatcom.vercel.app/login](https://dechatcom.vercel.app/login)  
+> **🌐 Live Demo**: [https://dchat.pro](https://dchat.pro)  
 > **📝 Team**: Everest  
 > **🏆 ETHShanghai 2025 Hackathon Project**
 
@@ -8,7 +8,7 @@
 
 ## 🚀 Quick Links
 
-- **🌐 Official Website**: [https://dechatcom.vercel.app/login](https://dechatcom.vercel.app/login)
+- **🌐 Official Website**: [https://dchat.pro](https://dchat.pro)
 - **📜 Smart Contracts**: [View Contracts](#-smart-contracts)
 - **📖 Documentation**: [Full Documentation](./docs/)
 - **🎥 Demo Video**: [Coming Soon]
@@ -267,7 +267,7 @@ See [TESTING_GUIDE.md](./TESTING_GUIDE.md) for comprehensive testing procedures.
 
 ## 🌐 Live Demo
 
-**Visit our live demo**: [https://dechatcom.vercel.app/login](https://dechatcom.vercel.app/login)
+**Visit our live demo**: [https://dchat.pro](https://dchat.pro)
 
 **Test Features**:
 - ✅ Wallet connection (MetaMask)
@@ -343,7 +343,7 @@ This project is submitted to **ETHShanghai 2025 Hackathon**.
 
 ## 🔗 Additional Resources
 
-- **Official Website**: [https://dechatcom.vercel.app/login](https://dechatcom.vercel.app/login)
+- **Official Website**: [https://dchat.pro](https://dchat.pro)
 - **Smart Contracts**: [Contract Documentation](./contracts/README.md)
 - **API Documentation**: [Backend API](./backend/README.md)
 - **Whitepaper**: [Full Whitepaper](./docs/whitepaper/dchat-whitepaper.md)
